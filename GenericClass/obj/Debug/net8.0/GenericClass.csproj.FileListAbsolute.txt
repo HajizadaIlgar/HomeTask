@@ -1,0 +1,15 @@
+C:\Users\Ilqar\Desktop\HomeTask\GenericClass\bin\Debug\net8.0\GenericClass.exe
+C:\Users\Ilqar\Desktop\HomeTask\GenericClass\bin\Debug\net8.0\GenericClass.deps.json
+C:\Users\Ilqar\Desktop\HomeTask\GenericClass\bin\Debug\net8.0\GenericClass.runtimeconfig.json
+C:\Users\Ilqar\Desktop\HomeTask\GenericClass\bin\Debug\net8.0\GenericClass.dll
+C:\Users\Ilqar\Desktop\HomeTask\GenericClass\bin\Debug\net8.0\GenericClass.pdb
+C:\Users\Ilqar\Desktop\HomeTask\GenericClass\obj\Debug\net8.0\GenericClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ilqar\Desktop\HomeTask\GenericClass\obj\Debug\net8.0\GenericClass.AssemblyInfoInputs.cache
+C:\Users\Ilqar\Desktop\HomeTask\GenericClass\obj\Debug\net8.0\GenericClass.AssemblyInfo.cs
+C:\Users\Ilqar\Desktop\HomeTask\GenericClass\obj\Debug\net8.0\GenericClass.csproj.CoreCompileInputs.cache
+C:\Users\Ilqar\Desktop\HomeTask\GenericClass\obj\Debug\net8.0\GenericClass.sourcelink.json
+C:\Users\Ilqar\Desktop\HomeTask\GenericClass\obj\Debug\net8.0\GenericClass.dll
+C:\Users\Ilqar\Desktop\HomeTask\GenericClass\obj\Debug\net8.0\refint\GenericClass.dll
+C:\Users\Ilqar\Desktop\HomeTask\GenericClass\obj\Debug\net8.0\GenericClass.pdb
+C:\Users\Ilqar\Desktop\HomeTask\GenericClass\obj\Debug\net8.0\GenericClass.genruntimeconfig.cache
+C:\Users\Ilqar\Desktop\HomeTask\GenericClass\obj\Debug\net8.0\ref\GenericClass.dll
