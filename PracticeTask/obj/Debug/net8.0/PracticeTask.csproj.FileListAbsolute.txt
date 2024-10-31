@@ -1,0 +1,15 @@
+C:\Users\Ilqar\Desktop\repos\homeTask\PracticeTask\bin\Debug\net8.0\PracticeTask.exe
+C:\Users\Ilqar\Desktop\repos\homeTask\PracticeTask\bin\Debug\net8.0\PracticeTask.deps.json
+C:\Users\Ilqar\Desktop\repos\homeTask\PracticeTask\bin\Debug\net8.0\PracticeTask.runtimeconfig.json
+C:\Users\Ilqar\Desktop\repos\homeTask\PracticeTask\bin\Debug\net8.0\PracticeTask.dll
+C:\Users\Ilqar\Desktop\repos\homeTask\PracticeTask\bin\Debug\net8.0\PracticeTask.pdb
+C:\Users\Ilqar\Desktop\repos\homeTask\PracticeTask\obj\Debug\net8.0\PracticeTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ilqar\Desktop\repos\homeTask\PracticeTask\obj\Debug\net8.0\PracticeTask.AssemblyInfoInputs.cache
+C:\Users\Ilqar\Desktop\repos\homeTask\PracticeTask\obj\Debug\net8.0\PracticeTask.AssemblyInfo.cs
+C:\Users\Ilqar\Desktop\repos\homeTask\PracticeTask\obj\Debug\net8.0\PracticeTask.csproj.CoreCompileInputs.cache
+C:\Users\Ilqar\Desktop\repos\homeTask\PracticeTask\obj\Debug\net8.0\PracticeTask.sourcelink.json
+C:\Users\Ilqar\Desktop\repos\homeTask\PracticeTask\obj\Debug\net8.0\PracticeTask.dll
+C:\Users\Ilqar\Desktop\repos\homeTask\PracticeTask\obj\Debug\net8.0\refint\PracticeTask.dll
+C:\Users\Ilqar\Desktop\repos\homeTask\PracticeTask\obj\Debug\net8.0\PracticeTask.pdb
+C:\Users\Ilqar\Desktop\repos\homeTask\PracticeTask\obj\Debug\net8.0\PracticeTask.genruntimeconfig.cache
+C:\Users\Ilqar\Desktop\repos\homeTask\PracticeTask\obj\Debug\net8.0\ref\PracticeTask.dll
