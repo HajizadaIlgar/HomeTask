@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ilqar\\Desktop\\repos\\homeTask\\PracticeTask\\PracticeTask.csproj": {}
+    "C:\\Users\\ca r221.14\\Desktop\\HomeTask\\PracticeTask\\PracticeTask.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ilqar\\Desktop\\repos\\homeTask\\PracticeTask\\PracticeTask.csproj": {
+    "C:\\Users\\ca r221.14\\Desktop\\HomeTask\\PracticeTask\\PracticeTask.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ilqar\\Desktop\\repos\\homeTask\\PracticeTask\\PracticeTask.csproj",
+        "projectUniqueName": "C:\\Users\\ca r221.14\\Desktop\\HomeTask\\PracticeTask\\PracticeTask.csproj",
         "projectName": "PracticeTask",
-        "projectPath": "C:\\Users\\Ilqar\\Desktop\\repos\\homeTask\\PracticeTask\\PracticeTask.csproj",
-        "packagesPath": "C:\\Users\\Ilqar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ilqar\\Desktop\\repos\\homeTask\\PracticeTask\\obj\\",
+        "projectPath": "C:\\Users\\ca r221.14\\Desktop\\HomeTask\\PracticeTask\\PracticeTask.csproj",
+        "packagesPath": "C:\\Users\\ca r221.14\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ca r221.14\\Desktop\\HomeTask\\PracticeTask\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Ilqar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ca r221.14\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

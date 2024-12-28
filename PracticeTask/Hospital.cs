@@ -27,9 +27,12 @@ class Hospital
     {
         return appointments;
     }
-    public static void GetWeeklyAppointments()
+    public static List<Appointment> GetWeeklyAppointments(DateTime endTime)
     {
+        for (int i = 0; i < appointments.Count; i++)
+        {
 
+        }
     }
     public static void GetTodaysAppointments()
     {

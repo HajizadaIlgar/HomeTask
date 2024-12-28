@@ -8,28 +8,28 @@ class Proqram
         Appointment appointment0 = new Appointment
         {
             StartTime = DateTime.Parse("12:00"),
-            EndTime = DateTime.Parse("13:45"),
-            No = 1,
+            EndTime = DateTime.Now.AddDays(-7),
+            No = 0,
             Doctor = new Doctor { DoctorName = "Receb", DoctorSurname = "Eliyev", DoctorAge = 28 }
         };
         Appointment appointment1 = new Appointment
         {
             StartTime = DateTime.Parse("12:00"),
-            EndTime = DateTime.Parse("13:45"),
+            EndTime = DateTime.Now.AddDays(-7),
             No = 1,
             Patient = new Patient { PatientName = "Receb", PatientSurname = "Eliyev", PatientAge = 28 }
         };
         Appointment appointment2 = new Appointment
         {
             StartTime = DateTime.Parse("8:00"),
-            EndTime = DateTime.Parse("10:00"),
+            EndTime = DateTime.Now.AddDays(-7),
             No = 2,
             Patient = new Patient { PatientName = "Veli", PatientSurname = "KJH", PatientAge = 3 }
         };
         Appointment appointment3 = new Appointment
         {
             StartTime = DateTime.Parse("14:00"),
-            EndTime = DateTime.Parse("16:45"),
+            EndTime = DateTime.Now.AddDays(-7),
             No = 3,
             Patient = new Patient { PatientName = "Revan", PatientSurname = "hjgjgh", PatientAge = 18 }
         };
