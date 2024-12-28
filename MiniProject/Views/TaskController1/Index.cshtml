@@ -1,0 +1,18 @@
+﻿@using MiniProject.model
+@model List<DoingTask>
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <ul>
+        @foreach (var item in Model)
+        {
+            <li>@item.Description - @item.DeedLine?.ToString("yyyy-mm-dd HH:mm:ss")</li>
+        }
+    </ul>
+</body>
+</html>
